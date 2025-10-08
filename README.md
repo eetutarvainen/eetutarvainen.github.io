@@ -1,13 +1,15 @@
 ## <Eetu Tarvainen>
 _not_
 **nettisivu oikeesti**
-# Header one
- ## Header two
- ### Header three
- #### Header four
- ##### Header five
- ###### Header six
-#### Colombian Symbolism in _One hundred Years..._
+# Header Yksi
+ ## Header Kaksi
+ ### Header Kolme
+ #### Header Neljä
+ ##### Header Viisi
+ ###### Header Kuusi
+
+ 
+ #### Colombian Symbolism in _One hundred Years..._
 
 Here's some words about the book _One Hundred Years..._
 [Search for it.](www.google.com)
@@ -17,18 +19,18 @@ Here's some words about the book _One Hundred Years..._
 #### The Latest News from [the BBC](www.bbc.com/news:)
 
 
-Do you want to see (www.zombo.com)[A fun place]?
+Do you want to [see something fun][www.zombo.com;]?
 
+Well, do I have [the website for you][www.stumbleupon.com]!
 
-Well, do I have (www.stumbleupon.com:)[Another fun place]!
 
 ![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 
 
-[Black cat](https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg)
+![Black cat](https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg)
 
 
-[Orange cat](http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png)
+![Orange cat](http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png)
 
 
 >I read this interesting quote the other day:
